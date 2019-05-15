@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/camillagds/Memory-Game.git"
+    "url": "git+https://github.com/cgomestw/Memory-Game.git"
   },
   "keywords": [
     "memory",
@@ -23,9 +23,9 @@
   "author": "camillagds",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/camillagds/Memory-Game/issues"
+    "url": "https://github.com/cgomestw/Memory-Game/issues"
   },
-  "homepage": "https://github.com/camillagds/Memory-Game#readme",
+  "homepage": "https://github.com/cgomestw/Memory-Game#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "expect": "^1.20.2",
